@@ -40,6 +40,11 @@ This project is designed to demonstrate SQL skills and techniques typically used
 ## Conclusion
 This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
 
+## How to Run This Project
+1. Clone the repository.
+2. Open the SQL scripts in your preferred SQL client.
+3. Run the scripts in supreme against a Mysql database loaded with the sample data in the data folder.
+
 
 
 
